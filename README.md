@@ -1,13 +1,21 @@
-# Project Name
+# Guess Who Game
 
-Replace this readme with your own information about your project.
+The assignment was to create a digital version of the classic board game "Guess Who" to:
+- Practice using objects and arrays
+- Gain knowledge about closures and scope
+- Structure code in functions
+- Manipulate the DOM
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+Expected game behaviour:
+- A character is randomly selected and set to the secret at the start of the game
+- A player can select questions to filter the board based on those questions
+- A player receives feedback in the form of alerts
+- A player can guess the secret person and receive confirmation on whether or not they were correct
 
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Stretch goals reached:
+- Counter to track how may guesses a player makes
+- Limit on the number of questions before forcing a player to make a guess
 
 ## View it live
 
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://guess-who-aa.netlify.app/
